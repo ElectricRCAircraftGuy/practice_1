@@ -2,7 +2,11 @@
 	"folders":
 	[
 		{
-			"path": "."
+			"path": ".",
+			"folder_include_patterns":
+			[
+				// "./.git/*"
+			]
 		}
 	]
 }
